@@ -1,8 +1,8 @@
-# 🔄 Recurse MCP
+# Recurse MCP
 
 ## What's This Thing?
 
-A magical bridge between the Recurse Center's API and AI built by [Namanyay](https://nmn.gl/)
+A magical bridge between the Recurse Center's API and AI built by [Namanyay](https://nmn.gl/) (SP2'25)
 
 ## What Does It Do?
 
